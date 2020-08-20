@@ -10,6 +10,7 @@ Welcome to PersonalCore's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   信条 <core>
 
 
 Indices and tables
