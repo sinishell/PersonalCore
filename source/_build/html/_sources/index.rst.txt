@@ -11,6 +11,8 @@ Welcome to PersonalCore's documentation!
    :caption: Contents:
 
    信条 <core>
+   世界观 <outlook>
+   洞察 <insight>
 
 
 Indices and tables
