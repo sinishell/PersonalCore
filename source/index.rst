@@ -13,6 +13,7 @@ Welcome to PersonalCore's documentation!
    信条 <core>
    世界观 <outlook>
    洞察 <insight>
+   测试 <test>
 
 
 Indices and tables
