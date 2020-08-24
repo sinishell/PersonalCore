@@ -3,22 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PersonalCore's documentation!
+
+
+
+
+自由意志
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    信条 <core>
    世界观 <outlook>
    洞察 <insight>
-   测试 <test>
+   关于 <about>
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+   ==================
+ 
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
